@@ -1,0 +1,192 @@
+body{
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+    padding: 5%;
+    height: 500;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 60px;
+    margin: 0px;
+    font-weight: 120;
+    color:#363958 ;
+}
+
+h2{
+    color:#363958 
+}
+
+.headline{
+    color: #363958;
+}
+
+.name{
+    color:#FF8367;
+}
+
+.half-width{
+    width: 50%;
+    float: left;
+    align-items: center;
+}
+
+.roboto-text{
+    width: 60%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+}
+
+.hire-btn{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 50px;
+    border-radius: 7px;
+}
+
+section{
+    height: 500px;
+    /* border: 1px solid black; */
+}
+
+.about-text{
+    width: 80%;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    margin-bottom: 50px;
+}
+
+.project-intro-text{
+    text-align: center;
+    margin-top: 50px;
+}
+.projects{
+    margin-top: 70px;
+}
+
+.equal{
+    width: 30%;
+    float: left;
+}
+
+.project-headline{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+.normal-text{
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.5;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    color: black;
+}
+
+.card{
+    background-color: white;
+    margin-right: 40px;
+    padding-top: 25px;
+    box-shadow: 10px 3px 30px gray;
+    border-radius: 30px;
+    
+}
+.card1{
+    background-color: white;
+    margin-right: 40px;
+    padding-top: 25px;
+    box-shadow: 10px 3px 30px gray;
+    border-radius: 30px;
+
+}
+
+.projects{
+    justify-content: center;
+}
+
+.card-img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lastsection{
+    position:relative;
+    background-repeat: no-repeat;
+    height: 180px;
+    border-radius: 25px;
+    padding-top: 10px;
+}
+
+.bluebg{
+    background-image: url("images/Group_33094_1.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin:140px;
+    margin-left: 250px;
+    justify-content: center;
+    margin-top: 0px;
+
+}
+
+.header_button3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    text-decoration: none;
+    color: white;
+    padding: 15px 35px;
+    border-radius: 7px;
+
+}
+
+.work-inquery-text{
+    font-size: 50px;
+    font-weight: 500;
+    color: white;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px ;
+}
+
+.chat-btn{
+    margin-left: 280px;
+}
+
+.stay-connected-text{
+    text-align: center;
+    color: #979a9c;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 0px;
+}
+
+.bluebgsec{
+    height: 250px;
+}
+
+.mailfont{
+    font-family: 'Hind Siliguri', sans-serif;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-top: 30px;
+}
+
+.bottom-logos{
+    letter-spacing: 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.mail-sec{
+    height: 200px;
+}
